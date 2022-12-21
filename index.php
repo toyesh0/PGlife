@@ -19,14 +19,6 @@ session_start();
 
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 
-<df-messenger
-
-  intent="WELCOME"
-  chat-title="ReactPageAgent"
-  agent-id="51a5579b-1bbe-45f6-8e42-aa4e1772b2eb"
-  language-code="en"
-  
-></df-messenger>
 
     <?php
     include "includes/header.php";
